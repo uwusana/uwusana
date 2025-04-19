@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 💡 I love creative web development, turning ideas into visually stunning and user-friendly designs, while also exploring the AI world to understand how it all works behind the scenes.
 
-🎨 When I’m not coding, you’ll find me binging anime, sketching my favorite characters, or playing Genshin Impact(when I’m not too busy, of course).
+🎨 When I’m not coding, you’ll find me binging anime, sketching my favorite characters, or playing Genshin Impact.
 
 🐱 Fun fact: I believe console.logs and coffee can solve almost anything!
 
